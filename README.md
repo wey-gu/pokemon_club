@@ -5,7 +5,7 @@ This is a DEMO Project for:
 - Blog: https://note.siwei.info/pokemon-club-a-demo-app-with-nebula-graph/ 
 - video demo: `To be done` 
 
-Today, let's build a new SNS for the Pokemon Trainers, the Pokemon Clubhouse ;)
+Today, let's build a new SNS for the Pokemon Trainers, the Pokemon Club~~house~~ ;)
 
 Pokemon Club is targeting to connect all Pokemon Trainers for their meetup or grouping to fight in certain Pokemon Go Gym.
 
